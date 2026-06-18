@@ -111,3 +111,32 @@ Developed vehicle management functionalities including:
   
 ## Academic Project
 This project was developed as part of 2 year 2 semester Web development and Mobile Application module learning activity at Sri Lanka Institute of Information Technology (SLIIT).
+
+## Application Screenshots
+
+**Home Page**
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0c6f9f96-0d8e-4c24-befd-85cf6b29d5ae" />
+
+**Booking System**
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/806211e1-9ebe-439a-bec9-26936dc11e3d" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4683088c-39b0-4e8c-8f40-69055baa1c48" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/059ed7c4-bc53-4a0e-9f58-2b001aa66e70" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/47b7516a-1655-41ad-bd47-bb4da91ee585" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/617fac71-519e-4ee7-b832-cfc78ca5a401" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/af327508-6993-454f-b921-7f0abf149708" />
+
+**Fuel Management**
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ec53b5c-abd5-4f4e-84a2-c9c921fe1034" />
+
+**SOS & Emergency**
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0c26d218-9a31-444c-a97f-6dbf360bc4d5" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f2c9f5e-cb41-409e-b986-73709ab64558" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8b7f7ae2-1d61-41da-bc78-93a8f2dc32a7" />
+
+**Review Management**
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ac861928-4ae4-420a-9d1c-f1f2a9b03f0f" />
+
+**Vehicle managemt and admin Dashboard**
+
+
+
