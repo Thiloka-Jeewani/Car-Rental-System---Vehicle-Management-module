@@ -142,6 +142,8 @@ This project was developed as part of 2 year 2 semester Web development and Mobi
 <img width="520" height="1000" alt="image" src="https://github.com/user-attachments/assets/ac861928-4ae4-420a-9d1c-f1f2a9b03f0f" />
 
 ### Vehicle managemt and admin Dashboard
+<img width="317" height="667" alt="image" src="https://github.com/user-attachments/assets/1f24dc8a-9e6e-4683-8edd-64ac6ac094c4" />
+<img width="165" height="354" alt="image" src="https://github.com/user-attachments/assets/299a472e-941f-471c-9df0-e7fa65c88feb" />
 
 
 
